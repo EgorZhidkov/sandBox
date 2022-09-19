@@ -1,0 +1,52 @@
+[
+  {
+    "state": "Уренгойское НГКМ (SMB)",
+    "state_info": [
+      {
+        "kust": "U74",
+        "skvazhina": [
+          {
+            "title": "7403",
+            "stvol": [{ "title": "1" }, { "title": "2" }],
+            "status": [{ "state": true }, { "state": false }]
+          },
+          {
+            "title": "7503",
+            "stvol": [{ "title": "100" }, { "title": "200" }],
+            "status": [{ "state": true }, { "state": false }]
+          }
+        ]
+      },
+      {
+        "kust": "U70",
+        "skvazhina": [
+          {
+            "title": "7303",
+            "stvol": [{ "title": "1" }, { "title": "2" }],
+            "status": [{ "state": true }, { "state": false }]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "state": "Skolkovskoe",
+    "state_info": [
+      {
+        "kust": "S74",
+        "skvazhina": [
+          {
+            "title": "S403",
+            "stvol": [{ "title": "1" }, { "title": "2" }],
+            "status": [{ "state": true }, { "state": false }]
+          },
+          {
+            "kust": "S503",
+            "stvol": [{ "title": "100" }, { "title": "200" }],
+            "status": [{ "state": true }, { "state": false }]
+          }
+        ]
+      }
+    ]
+  }
+]
